@@ -1,2 +1,3 @@
-# cpp-codespaces-starter-1
-A starter repository for C++ development
+# cpp-codespaces-starter
+
+A starter repository for c++ development
